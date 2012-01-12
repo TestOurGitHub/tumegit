@@ -9,3 +9,4 @@ test johnsmith
 * 問題（tumegitX.txt）と解は(kaiX.txt)は１ファイル１問。問題が複数ある場合は、ファイルの拡張子の手前に問題番号Xを付与する。例、tumegit1.txt,kai1.txt
 
  
+master
